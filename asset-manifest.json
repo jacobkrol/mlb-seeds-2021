@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/mlb-seeds-2021/static/css/main.6d645b22.chunk.css",
+    "main.js": "/mlb-seeds-2021/static/js/main.c52f50de.chunk.js",
+    "main.js.map": "/mlb-seeds-2021/static/js/main.c52f50de.chunk.js.map",
+    "runtime-main.js": "/mlb-seeds-2021/static/js/runtime-main.a15b70e6.js",
+    "runtime-main.js.map": "/mlb-seeds-2021/static/js/runtime-main.a15b70e6.js.map",
+    "static/js/2.20ec69fe.chunk.js": "/mlb-seeds-2021/static/js/2.20ec69fe.chunk.js",
+    "static/js/2.20ec69fe.chunk.js.map": "/mlb-seeds-2021/static/js/2.20ec69fe.chunk.js.map",
+    "static/js/3.fc5b6b33.chunk.js": "/mlb-seeds-2021/static/js/3.fc5b6b33.chunk.js",
+    "static/js/3.fc5b6b33.chunk.js.map": "/mlb-seeds-2021/static/js/3.fc5b6b33.chunk.js.map",
+    "index.html": "/mlb-seeds-2021/index.html",
+    "static/css/main.6d645b22.chunk.css.map": "/mlb-seeds-2021/static/css/main.6d645b22.chunk.css.map",
+    "static/js/2.20ec69fe.chunk.js.LICENSE.txt": "/mlb-seeds-2021/static/js/2.20ec69fe.chunk.js.LICENSE.txt",
+    "static/media/angels.47449455.png": "/mlb-seeds-2021/static/media/angels.47449455.png",
+    "static/media/astros.4d931942.png": "/mlb-seeds-2021/static/media/astros.4d931942.png",
+    "static/media/bluejays.edc460dd.png": "/mlb-seeds-2021/static/media/bluejays.edc460dd.png",
+    "static/media/brewers.6768da95.png": "/mlb-seeds-2021/static/media/brewers.6768da95.png",
+    "static/media/cardinals.12d70a88.png": "/mlb-seeds-2021/static/media/cardinals.12d70a88.png",
+    "static/media/cubs.489b9bd2.png": "/mlb-seeds-2021/static/media/cubs.489b9bd2.png",
+    "static/media/diamondbacks.1060dcb3.png": "/mlb-seeds-2021/static/media/diamondbacks.1060dcb3.png",
+    "static/media/mariners.33ea8095.png": "/mlb-seeds-2021/static/media/mariners.33ea8095.png",
+    "static/media/marlins.72ff0d33.png": "/mlb-seeds-2021/static/media/marlins.72ff0d33.png",
+    "static/media/nationals.12b8dbfb.png": "/mlb-seeds-2021/static/media/nationals.12b8dbfb.png",
+    "static/media/orioles.4863b0ec.png": "/mlb-seeds-2021/static/media/orioles.4863b0ec.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a15b70e6.js",
+    "static/js/2.20ec69fe.chunk.js",
+    "static/css/main.6d645b22.chunk.css",
+    "static/js/main.c52f50de.chunk.js"
+  ]
+}
