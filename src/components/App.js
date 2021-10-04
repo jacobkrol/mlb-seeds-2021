@@ -35,7 +35,7 @@ function App() {
                 setAlSeeds(alSeedData[day].seeds);
                 setNlSeeds(nlSeedData[day].seeds);
                 setDay(day+1);
-            }, 550); //700-400*(day/alSeedData.length)
+            }, 600-450*(day/alSeedData.length));
             setAnimate(animate);
         } else {
             setPlaying(false);
